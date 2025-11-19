@@ -1,0 +1,114 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "chipset": "Snapdragon 8 Gen 3",
+      "ram": "12 GB",
+      "storage": "512 GB",
+      "battery": "5000 mAh",
+      "price": "Rp 21.999.000",
+      "poster": "https://images.samsung.com/is/image/samsung/p6pim/id/2401/gallery/id-galaxy-s24-s928-sm-s928bzbcxid-539294636?$650_519_PNG$"
+    },
+    {
+      "no": "2",
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "chipset": "A17 Pro",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4441 mAh",
+      "price": "Rp 24.999.000",
+      "poster": "https://ibox.co.id/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-15-pro-max-natural-titanium-1_2.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Xiaomi 14 Ultra",
+      "brand": "Xiaomi",
+      "chipset": "Snapdragon 8 Gen 3",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5000 mAh",
+      "price": "Rp 16.999.000",
+      "poster": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1708517298.30357975!400x400!85.png"
+    },
+    {
+      "no": "4",
+      "name": "Google Pixel 8 Pro",
+      "brand": "Google",
+      "chipset": "Google Tensor G3",
+      "ram": "12 GB",
+      "storage": "128 GB",
+      "battery": "5050 mAh",
+      "price": "Rp 14.500.000",
+      "poster": "https://lh3.googleusercontent.com/hH-HqR-M5X9b25ZqC_d4d1Z-W15-u5-L1-d1-c2-o4-m5-p6-u7-t8-e9-r0-o1-n2-e3"
+    },
+    {
+      "no": "5",
+      "name": "Asus ROG Phone 8 Pro",
+      "brand": "Asus",
+      "chipset": "Snapdragon 8 Gen 3",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5500 mAh",
+      "price": "Rp 18.999.000",
+      "poster": "https://dlcdnwebimgs.asus.com/gain/61E65654-0920-4841-8978-474188412109/w1000/h732"
+    },
+    {
+      "no": "6",
+      "name": "Oppo Find X7 Ultra",
+      "brand": "Oppo",
+      "chipset": "Snapdragon 8 Gen 3",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5000 mAh",
+      "price": "Rp 15.000.000",
+      "poster": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x7-ultra-2.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Vivo X100 Pro",
+      "brand": "Vivo",
+      "chipset": "Dimensity 9300",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5400 mAh",
+      "price": "Rp 16.999.000",
+      "poster": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-pro-1.jpg"
+    },
+    {
+      "no": "8",
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "chipset": "Snapdragon 8 Gen 3",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5400 mAh",
+      "price": "Rp 13.500.000",
+      "poster": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Sony Xperia 1 V",
+      "brand": "Sony",
+      "chipset": "Snapdragon 8 Gen 2",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh",
+      "price": "Rp 17.500.000",
+      "poster": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-v-1.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Huawei Pura 70 Ultra",
+      "brand": "Huawei",
+      "chipset": "Kirin 9010",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5200 mAh",
+      "price": "Rp 20.000.000",
+      "poster": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/pura70-ultra/list/black.png"
+    }
+  ]
+}
